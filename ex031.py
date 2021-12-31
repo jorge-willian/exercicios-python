@@ -1,5 +1,5 @@
 print('-='*25)
-print(f'{str("VIAGEM"):^50}')
+print(f'{str("VALOR DA PASSAGEM"):^50}')
 print('-='*25)
 
 distancia = float(input('Qual a distância da viagem? '))

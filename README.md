@@ -1,11 +1,11 @@
-# exercicios-python
+## exercicios-python
 Exercícios realizados durante o curso de Python do Curso em Vídeo.
 Professor Gustavo Guanabara.
 
-Playlist do Curso: https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6
+<a href="https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6">Playlist do Curso</a>
 
-Canal do Youtube: https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ
+<a href="https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ">Canal do Youtube</a>
 
-Site do Curso em Vídeo: http://www.cursoemvideo.com
+<a href="http://www.cursoemvideo.com">Site do Curso em Vídeo</a>
 
-Apoie o Curso em Vídeo: http://www.cursoemvideo.com/apoie
+<a href="http://www.cursoemvideo.com/apoie">Apoie o Curso em Vídeo</a>

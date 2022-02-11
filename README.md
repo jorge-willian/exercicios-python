@@ -2,7 +2,7 @@
 Exercícios realizados durante o curso de Python do Curso em Vídeo.
 Professor Gustavo Guanabara.
 
-Link da Playlist: https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6
+Playlist do Curso: https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6
 
 Canal do Youtube: https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ
 

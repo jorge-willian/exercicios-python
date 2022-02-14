@@ -23,3 +23,5 @@ Exercício Python #055 - Maior e menor da sequência<br />
 Exercício Python #056 - Analisador completo<br />
 Exercício Python #057 - Validação de Dados<br />
 Exercício Python #058 - Jogo da Adivinhação v2.0<br />
+Exercício Python #059 - Criando um Menu de Opções<br />
+Exercício Python #060 - Cálculo do Fatorial<br />

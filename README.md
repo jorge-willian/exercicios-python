@@ -3,9 +3,6 @@
     <img alt="CeV" src="https://www.cursoemvideo.com/wp-content/uploads/2019/08/cursoemvideo-logo-branca.png" width="350" />
   </a>
 </p>
-<h2 align="center">
-  Curso em Vídeo - Exercícios Python
-</h2>
 
 <h3 align="center">
   Exercícios realizados durante o curso de Python do Curso em Vídeo.<br>

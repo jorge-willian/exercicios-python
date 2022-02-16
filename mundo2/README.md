@@ -25,3 +25,8 @@ Exercício Python #057 - Validação de Dados<br />
 Exercício Python #058 - Jogo da Adivinhação v2.0<br />
 Exercício Python #059 - Criando um Menu de Opções<br />
 Exercício Python #060 - Cálculo do Fatorial<br />
+Exercício Python #061 - Progressão Aritmética v2.0<br />
+Exercício Python #062 - Super Progressão Aritmética v3.0<br />
+Exercício Python #063 - Sequência de Fibonacci v1.0<br />
+Exercício Python #064 - Tratando vários valores v1.0<br />
+Exercício Python #065 - Maior e Menor valores<br />

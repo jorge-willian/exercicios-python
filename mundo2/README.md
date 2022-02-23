@@ -30,3 +30,9 @@ Exercício Python #062 - Super Progressão Aritmética v3.0<br />
 Exercício Python #063 - Sequência de Fibonacci v1.0<br />
 Exercício Python #064 - Tratando vários valores v1.0<br />
 Exercício Python #065 - Maior e Menor valores<br />
+Exercício Python #066 - Vários números com flag<br />
+Exercício Python #067 - Tabuada v3.0<br />
+Exercício Python #068 - Jogo do Par ou Ímpar<br />
+Exercício Python #069 - Análise de dados do grupo<br />
+Exercício Python #070 - Estatísticas em produtos<br />
+Exercício Python #071 - Simulador de Caixa Eletrônico<br />

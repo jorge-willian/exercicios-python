@@ -1,6 +1,3 @@
-from ipaddress import ip_address
-
-
 print(f'{" DESAFIO 62 - PROGRESSÃO ARITIMÉTICA V3.0 ":/^50}')
 
 prim_termo = int(input('Digite o primeiro termo: '))

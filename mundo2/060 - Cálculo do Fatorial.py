@@ -1,6 +1,3 @@
-from tkinter import N
-
-
 print(f'{" DESAFIO 60 - FATORIAL ":/^50}')
 num = int(input('Digite o número para calcular seu fatorial: '))
 cont = num

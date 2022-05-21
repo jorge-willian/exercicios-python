@@ -1,7 +1,3 @@
-import numbers
-from operator import ne
-
-
 print(f'''{"="*50}
 {"EX080 - LISTA ORDENADA SEM REPETIÇÕES":^50}
 {"="*50}''')

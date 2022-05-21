@@ -29,5 +29,3 @@ print('=-'*25)
 print(f'''A lista completa é: {numbers}
 A lista de pares é: {even_numbers}
 A lista de ímpares é: {odd_numbers}''')
-
-

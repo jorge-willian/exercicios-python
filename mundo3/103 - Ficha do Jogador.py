@@ -2,7 +2,7 @@ def ficha(nome='<desconhecido>', gols=0):
     print(f'O jogador {nome} fez {gols} gol(s) no campeonato.')    
 
 print(f'''{"=" * 50}
-{"EX103 - ":^50}
+{"EX103 - Ficha do Jogador":^50}
 {"=" * 50}''')
 
 n = str(input('Nome do Jogador: '))
